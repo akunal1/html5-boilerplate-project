@@ -1,0 +1,10 @@
+{
+  "name": "stubby-server",
+  "version": "1.0.0",
+  "description": "localhost_server",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-stubby-server": "^0.4.0"
+  }
+}
